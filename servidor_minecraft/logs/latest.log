@@ -1,0 +1,196 @@
+[07:12:25] [main/INFO]: Loading Minecraft 1.21 with Fabric Loader 0.16.3
+[07:12:25] [ForkJoinPool-1-worker-2/WARN]: The mod "dungeons_arise" contains invalid entries in its mod json:
+- Unsupported root entry "credits" at line 12 column 11
+[07:12:26] [main/INFO]: Loading 89 mods:
+	- balm 21.0.39
+	   \-- kuma_api 21.0.5
+	- biomesoplenty 21.0.0.18
+	- cardinal-components 6.1.2
+	   |-- cardinal-components-base 6.1.2
+	   |-- cardinal-components-block 6.1.2
+	   |-- cardinal-components-chunk 6.1.2
+	   |-- cardinal-components-entity 6.1.2
+	   |-- cardinal-components-item 6.1.2
+	   |-- cardinal-components-level 6.1.2
+	   |-- cardinal-components-scoreboard 6.1.2
+	   \-- cardinal-components-world 6.1.2
+	- cloth-config 15.0.140
+	   \-- cloth-basic-math 0.6.1
+	- comforts 9.0.3+1.21.1
+	   \-- spectrelib 0.17.2+1.21
+	        |-- com_electronwill_night-config_core 3.8.0
+	        \-- com_electronwill_night-config_toml 3.8.0
+	- creativecore 2.12.9
+	   \-- net_neoforged_bus 7.2.0
+	- cristellib 1.2.8
+	   \-- blue_endless_jankson 1.2.3
+	- croptopia 3.0.9
+	- deeperdarker 1.3.3
+	   \-- customportalapi 0.0.1-beta66-1.21
+	- dungeons_arise 2.1.60
+	- epherolib 1.2.0-1.20.6
+	- fabric-api 0.102.0+1.21
+	   |-- fabric-api-base 0.4.42+6573ed8cd1
+	   |-- fabric-api-lookup-api-v1 1.6.68+b5597344d1
+	   |-- fabric-biome-api-v1 13.0.29+5bd9f1bcd1
+	   |-- fabric-block-api-v1 1.0.22+0af3f5a7d1
+	   |-- fabric-block-view-api-v2 1.0.10+6573ed8cd1
+	   |-- fabric-blockrenderlayer-v1 1.1.52+0af3f5a7d1
+	   |-- fabric-client-tags-api-v1 1.1.15+6573ed8cd1
+	   |-- fabric-command-api-v1 1.2.49+f71b366fd1
+	   |-- fabric-command-api-v2 2.2.28+6ced4dd9d1
+	   |-- fabric-commands-v0 0.2.66+df3654b3d1
+	   |-- fabric-content-registries-v0 8.0.16+b5597344d1
+	   |-- fabric-convention-tags-v1 2.0.19+7f945d5bd1
+	   |-- fabric-convention-tags-v2 2.5.0+c5e2b5c6d1
+	   |-- fabric-crash-report-info-v1 0.2.29+0af3f5a7d1
+	   |-- fabric-data-attachment-api-v1 1.1.27+6a6dfa19d1
+	   |-- fabric-data-generation-api-v1 20.2.16+16c4ae25d1
+	   |-- fabric-dimensions-v1 4.0.0+6fc22b99d1
+	   |-- fabric-entity-events-v1 1.6.12+6fc22b99d1
+	   |-- fabric-events-interaction-v0 0.7.12+ba9dae06d1
+	   |-- fabric-game-rule-api-v1 1.0.53+6ced4dd9d1
+	   |-- fabric-item-api-v1 11.0.0+afdfc921d1
+	   |-- fabric-item-group-api-v1 4.1.4+78017270d1
+	   |-- fabric-key-binding-api-v1 1.0.47+0af3f5a7d1
+	   |-- fabric-keybindings-v0 0.2.45+df3654b3d1
+	   |-- fabric-lifecycle-events-v1 2.3.12+6c1df360d1
+	   |-- fabric-loot-api-v2 3.0.14+3f89f5a5d1
+	   |-- fabric-loot-api-v3 1.0.2+3f89f5a5d1
+	   |-- fabric-message-api-v1 6.0.13+6573ed8cd1
+	   |-- fabric-model-loading-api-v1 2.0.0+fe474d6bd1
+	   |-- fabric-networking-api-v1 4.2.2+60c3209bd1
+	   |-- fabric-object-builder-api-v1 15.2.0+a551f7a4d1
+	   |-- fabric-particles-v1 4.0.2+6573ed8cd1
+	   |-- fabric-recipe-api-v1 5.0.12+65089712d1
+	   |-- fabric-registry-sync-v0 5.1.2+60c3209bd1
+	   |-- fabric-renderer-api-v1 3.4.0+c705a49cd1
+	   |-- fabric-renderer-indigo 1.7.0+c705a49cd1
+	   |-- fabric-renderer-registries-v1 3.2.68+df3654b3d1
+	   |-- fabric-rendering-data-attachment-v1 0.3.48+73761d2ed1
+	   |-- fabric-rendering-fluids-v1 3.1.6+b5597344d1
+	   |-- fabric-rendering-v0 1.1.71+df3654b3d1
+	   |-- fabric-rendering-v1 5.0.5+df16efd0d1
+	   |-- fabric-resource-conditions-api-v1 4.3.0+8dc279b1d1
+	   |-- fabric-resource-loader-v0 1.3.0+56599129d1
+	   |-- fabric-screen-api-v1 2.0.24+b5597344d1
+	   |-- fabric-screen-handler-api-v1 1.3.86+b5597344d1
+	   |-- fabric-sound-api-v1 1.0.23+6573ed8cd1
+	   |-- fabric-transfer-api-v1 5.1.16+3dccd343d1
+	   \-- fabric-transitive-access-wideners-v1 6.1.0+176f9036d1
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- framework 0.9.1
+	   |-- org_javassist_javassist 3.29.2-GA
+	   \-- org_reflections_reflections 0.10.2
+	- glitchcore 2.0.0.3
+	   \-- net_jodah_typetools 0.6.3
+	- java 21
+	- jei 19.19.6.233
+	- minecraft 1.21
+	- mvs 4.2.9-1.21-fabric
+	- owo 0.12.15.1+1.21
+	   |-- io_wispforest_endec 0.1.5
+	   |-- io_wispforest_endec_gson 0.1.3
+	   |-- io_wispforest_endec_jankson 0.1.3
+	   \-- io_wispforest_endec_netty 0.1.2
+	- patchouli 1.21-87-FABRIC
+	   \-- fiber 0.23.0-2
+	- refurbished_furniture 1.0.6
+	- skinlayers3d 1.6.7
+	- structory 1.3.10
+	- t_and_t 1.13.2
+	- terrablender 4.0.0.2
+	- travelersbackpack 10.1.2
+	- trinkets 3.10.0
+[07:12:26] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Servidor/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[07:12:26] [main/INFO]: Compatibility level set to JAVA_17
+[07:12:26] [main/INFO]: Compatibility level set to JAVA_21
+[07:12:27] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[07:12:27] [main/WARN]: @Mixin target net.minecraft.class_465 was not found creativecore.fabric.mixins.json:AbstractContainerScreenMixin from mod creativecore
+[07:12:27] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[07:12:27] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[07:12:27] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[07:12:27] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[07:12:27] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[07:12:27] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[07:12:27] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07:12:41] [main/INFO]: Creating default config file: croptopia_v3.conf
+[07:12:41] [main/INFO]: Created directory for: /workspaces/Servidor/servidor_minecraft/config/croptopia
+[07:12:42] [main/ERROR]: No data fixer registered for deeperdarker:angler_fish
+[07:12:42] [main/ERROR]: No data fixer registered for deeperdarker:sculk_centipede
+[07:12:42] [main/ERROR]: No data fixer registered for deeperdarker:sculk_leech
+[07:12:42] [main/ERROR]: No data fixer registered for deeperdarker:sculk_snapper
+[07:12:42] [main/ERROR]: No data fixer registered for deeperdarker:shattered
+[07:12:42] [main/ERROR]: No data fixer registered for deeperdarker:shriek_worm
+[07:12:42] [main/ERROR]: No data fixer registered for deeperdarker:sludge
+[07:12:42] [main/ERROR]: No data fixer registered for deeperdarker:stalker
+[07:12:42] [main/ERROR]: No data fixer registered for crystallized_amber
+[07:12:42] [main/ERROR]: No data fixer registered for sculk_jaw
+[07:12:43] [main/INFO]: Reflections took 252 ms to scan 1 urls, producing 9 keys and 76 values
+[07:12:43] [main/ERROR]: No data fixer registered for seat
+[07:12:44] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[07:12:44] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[07:12:44] [main/ERROR]: No data fixer registered for anomaly
+[07:12:44] [main/INFO]: it seems to react to redstone
+[07:12:45] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[07:12:45] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[07:12:45] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[07:12:45] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[07:12:45] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[07:12:45] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[07:12:45] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[07:12:45] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[07:12:45] [main/ERROR]: No data fixer registered for 
+[07:12:45] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[07:12:45] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[07:12:45] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[07:12:45] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[07:12:45] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:12:45] [main/INFO]: Found new data pack balm, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack biomesoplenty, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack comforts, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack croptopia, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack deeperdarker, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack dungeons_arise, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack fabric, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack mvs, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack patchouli, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack refurbished_furniture, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack structory, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack t_and_t, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack terrablender, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack travelersbackpack, loading it automatically
+[07:12:45] [main/INFO]: Found new data pack trinkets, loading it automatically
+[07:12:47] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/shiraz_palace/shiraz_palace_supply - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:strong_healing\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Potion:\"minecraft:regeneration\"}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:2b,Amplifier:5b,Duration:1200}],CustomPotionColor:16770928}"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{CustomPotionEffects:[{Id:20b,Amplifier:5b,Duration:400}],CustomPotionColor:16770928}"}
+[07:12:47] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/heavenly_challenger/heavenly_challenger_supply - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 12 path $ missed input: {"minecraft:item_name":"Ascension Tonic"}
+[07:12:47] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_big - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[07:12:48] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/mines_treasure_medium - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:set_nbt; Second: Not a json array: {"function":"minecraft:set_nbt","tag":"{Enchantments:[{id:\"minecraft:sharpness\",lvl:6s},{id:\"minecraft:looting\",lvl:3s}]}"}
+[07:12:48] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/dungeons_arise:chests/illager_windmill/illager_windmill_barrels - com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 1 column 10 path $ missed input: {"minecraft:item_name":"Illager Beer"}
+[07:12:49] [main/INFO]: Loaded 3063 recipes
+[07:12:50] [main/INFO]: Loaded 3205 advancements
+[07:12:52] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[07:12:53] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[07:12:53] [main/INFO]: Applied 338 biome modifications to 138 of 138 new biomes in 22.83 ms
+[07:12:53] [Server thread/INFO]: Loading server configs...
+[07:12:53] [Server thread/INFO]: Starting minecraft server version 1.21
+[07:12:53] [Server thread/INFO]: Loading properties
+[07:12:53] [Server thread/INFO]: Default game type: SURVIVAL
+[07:12:53] [Server thread/INFO]: Generating keypair
+[07:12:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:12:53] [Server thread/INFO]: Using epoll channel type
+[07:12:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:12:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:12:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:12:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:12:53] [Server thread/INFO]: Preparing level "world"
+[07:13:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:13:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:13:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:13:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[07:13:08] [Server thread/INFO]: Time elapsed: 1232 ms
+[07:13:08] [Server thread/INFO]: Done (15.168s)! For help, type "help"
+[07:17:42] [Server thread/INFO]: Yenzen[/127.4.198.95:37409] logged in with entity id 16 at (4.5, 74.0, 47.5)
+[07:17:42] [Server thread/INFO]: Loading config from file...
+[07:17:42] [Server thread/INFO]: Yenzen joined the game
